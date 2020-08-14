@@ -10,10 +10,10 @@ https://docs.google.com/spreadsheets/d/1wcY9cuDRozHZvvm0l5UCGF4EEitDOfIqRnmLgQ8E
 
 3. Download above 2 files to this project root directory, then run the command
 ```
-python python generateUncertifiedDeviceReport.py <uncertified device csv> <agent list of partners>
+python generateUncertifiedDeviceReport.py <uncertified device csv> <agent list of partners>
 ```
 
 4. You will see an output file named 
 `output_YYYY_MM_DD.csv`
 
-
+5. import this csv to google spread sheet
